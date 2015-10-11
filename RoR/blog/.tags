@@ -1,0 +1,5 @@
+ArticlesController	/Users/ogi/Documents/WorkSpaces/GitRepos/github.com/orgimoto/HelloWorlds/RoR/blog/app/controllers/articles_controller.rb	/^class ArticlesController < ApplicationController$/;"	class	line:1
+show	/Users/ogi/Documents/WorkSpaces/GitRepos/github.com/orgimoto/HelloWorlds/RoR/blog/app/controllers/articles_controller.rb	/^  def show$/;"	method	line:2	class:ArticlesController
+new	/Users/ogi/Documents/WorkSpaces/GitRepos/github.com/orgimoto/HelloWorlds/RoR/blog/app/controllers/articles_controller.rb	/^  def new$/;"	method	line:5	class:ArticlesController
+create	/Users/ogi/Documents/WorkSpaces/GitRepos/github.com/orgimoto/HelloWorlds/RoR/blog/app/controllers/articles_controller.rb	/^  def create$/;"	method	line:8	class:ArticlesController
+article_params	/Users/ogi/Documents/WorkSpaces/GitRepos/github.com/orgimoto/HelloWorlds/RoR/blog/app/controllers/articles_controller.rb	/^    def article_params$/;"	method	line:16	class:ArticlesController
